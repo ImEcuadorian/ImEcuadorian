@@ -9,6 +9,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/dcd00895-08f6-49bf-ae42-c712ba26ad06.svg)](https://wakatime.com/@dcd00895-08f6-49bf-ae42-c712ba26ad06)
 
+<p>You can see my portafolio on: Still Working</p>
+
 ## Technologies
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,apollo,astro,autocad,dart,java,linux,md,react,tailwind,ts,vite,spring)
