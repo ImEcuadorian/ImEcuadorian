@@ -1,11 +1,14 @@
 <h1 align="center"> Hello, I'm Hugo Saldarriaga👋 </h1>
 <h3 align="center">🚀 Fullstack Developer 🚀</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
+
 <p>Hello I'm Hugo. I from Quito - Ecuador. I actually study computer science engineer at UPS</p>
 
 <p>You can see my work on: https://wakatime.com/@ImEcuadorian</p>
+[![wakatime](https://wakatime.com/badge/user/dcd00895-08f6-49bf-ae42-c712ba26ad06.svg)](https://wakatime.com/@dcd00895-08f6-49bf-ae42-c712ba26ad06)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
+
 
 ## Technologies
 
