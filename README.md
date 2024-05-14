@@ -13,7 +13,7 @@
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,apollo,astro,autocad,dart,java,linux,md,react,tailwind,ts,vite,spring)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,apollo,astro,autocad,dart,java,linux,md,react,tailwind,ts,vite,spring,cpp,python)
 
 ## Databases
 
@@ -21,11 +21,11 @@
 
 ## Tools
 
-![Tools](https://skillicons.dev/icons?i=idea,androidstudio,webstorm,npm,gradle,maven,git,github,eclipse,docker,discord,kubernetes,postman,pr,ps,ai,figma,notion)
+![Tools](https://skillicons.dev/icons?i=idea,androidstudio,webstorm,pycharm,clion,npm,gradle,maven,git,github,eclipse,docker,discord,kubernetes,postman,pr,ps,ai,figma,notion,md)
 
 ## Learning
 
-![Tools](https://skillicons.dev/icons?i=aws,azure,electron,express,nodejs,flutter,gcp,go,kotlin,nestjs,nextjs,reactivex,remix)
+![Tools](https://skillicons.dev/icons?i=aws,azure,electron,express,nodejs,flutter,gcp,go,kotlin,nestjs,nextjs,reactivex,remix,go,graphql)
 
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=imecuadorian&&show_icons=true&title_color=ffffff&icon_color=000727f&text_color=daf7dc&bg_color=1d334a)<br>
