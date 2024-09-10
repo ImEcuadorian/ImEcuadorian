@@ -13,7 +13,7 @@
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,apollo,astro,autocad,dart,java,linux,md,react,tailwind,ts,vite,spring,cpp,python)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,apollo,astro,autocad,dart,java,linux,md,react,tailwind,ts,vite,spring,cpp,python,aws,express,nodejs,nextjs,reactivex)
 
 ## Databases
 
@@ -25,7 +25,7 @@
 
 ## Learning
 
-![Tools](https://skillicons.dev/icons?i=aws,azure,electron,express,nodejs,flutter,gcp,go,kotlin,nestjs,nextjs,reactivex,remix,go,graphql)
+![Tools](https://skillicons.dev/icons?i=azure,electron,flutter,gcp,go,kotlin,nestjs,remix,go,graphql)
 
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=imecuadorian&&show_icons=true&title_color=ffffff&icon_color=000727f&text_color=daf7dc&bg_color=1d334a)<br>
