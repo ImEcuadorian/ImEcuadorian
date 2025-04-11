@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
-<p>Hello I'm Hugo. I from Quito - Ecuador. I actually study computer science engineer at UPS</p>
+<p>Hello I'm Mauricio I from Quito - Ecuador. I actually study computer science engineer at UPS</p>
 
 <p>You can see my coding time on: https://wakatime.com/@ImEcuadorian</p>
 
